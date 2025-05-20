@@ -4,6 +4,15 @@ These are free to use anywhere and how you want, credit is only requested if pub
 
 It includes the source code of them, along with examples if required.
 
+## Web Open Sourced
+Some web development assets or entire sites that I've made.
+
+[__**Portfolio**__](https://github.com/z4vmk/portfolio) |
+My current work-in-progress portfolio, created to mimic Visual Studio Code. It's made in Nuxt.
+
+[__**React Toggle Theme**__](https://github.com/z4vmk/react-toggle-theme) |
+A simple component to switch between dark and light themes, originally by [forgng](https://github.com/forgng).
+
 ## Discord Open Sourced
 Majority of my Discord projects use Sapphire, a Discord Bot framework.
 
