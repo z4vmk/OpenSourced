@@ -4,6 +4,8 @@ These are free to use anywhere and how you want, credit is only requested if pub
 
 It includes the source code of them, along with examples if required.
 
+[![kofi-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/donate/kofi-singular_vector.svg)](https://intergrav.github.io/devins-badges-docs/badges/cozy/)
+
 ## Web Open Sourced
 Some web development assets or entire sites that I've made.
 
